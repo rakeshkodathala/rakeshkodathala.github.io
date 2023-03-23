@@ -10,6 +10,7 @@
 :root{
   --first-color: #4070F4;
   --second-color: #0E2431;
+  --third-color: red;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -196,7 +197,7 @@ img{
   font-size: var(--big-font-size);
 }
 .home__title-color{
-  color: var(red);
+  color: var(--third-color);
 }
 .home__social{
   display: flex;
