@@ -196,7 +196,7 @@ img{
   font-size: var(--big-font-size);
 }
 .home__title-color{
-  color: var(blue);
+  color: var(red);
 }
 .home__social{
   display: flex;
